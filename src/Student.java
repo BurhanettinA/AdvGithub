@@ -3,4 +3,6 @@ public class Student {
     //__________________
     //versiyon 2
     public String name;
+
+    //dev 2 nin kodlari
 }
