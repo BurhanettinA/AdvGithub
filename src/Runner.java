@@ -10,5 +10,8 @@ public class Runner {
         //versiyon 3
         System.out.println("versiyon 3");
 
+
+
+   //dev 1 kodlarini yazdi
     }
 }
